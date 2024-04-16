@@ -21,21 +21,21 @@
    * colors
    */
 
-  --dark-jungle-green: hsl(188, 63%, 7%);
-  --prussian-blue: hsl(200, 69%, 14%);
-  --raisin-black-1: hsl(227, 29%, 13%);
+  --dark-jungle-green: hsl(39, 90%, 65%);
+  --prussian-blue: hsl(200, 64%, 27%);
+  --raisin-black-1: hsl(0, 0%, 89%);
   --raisin-black-2: hsl(229, 17%, 19%);
   --yellow-green: hsl(89, 72%, 45%);
   --orange-soda: hsl(9, 100%, 62%);
-  --cultured-1: hsl(0, 0%, 93%);
-  --cultured-2: hsl(192, 24%, 96%);
+  --cultured-1: hsl(0, 1%, 32%);
+  --cultured-2: hsl(0, 0%, 92%);
   --misty-rose: hsl(7, 56%, 91%);
   --alice-blue: hsl(210, 100%, 97%);
   --seashell: hsl(8, 100%, 97%);
   --cadet: hsl(200, 15%, 43%);
-  --white: hsl(0, 0%, 100%);
-  --black: hsl(0, 0%, 0%);
-  --opal: hsl(180, 20%, 62%);
+  --white: hsl(220, 17%, 17%);
+  --black: hsl(129, 100%, 89%);
+  --opal: hsl(180, 43%, 75%);
 
   /**
    * typography
